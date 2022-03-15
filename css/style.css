@@ -30,6 +30,7 @@ body nav
     background-color:#F5DEB3;
     border:3px solid#886644;
     box-shadow:15px 15px 10px #708090 inset;
+    display:inline;
 
     text-align:center;
     margin-top:auto;
@@ -39,8 +40,8 @@ body nav
 
     padding-top:50px;
     padding-bottom:50px;
-    padding-left:250px;
-    padding-right:250x;
+    padding-left:20px;
+    padding-right:20x;
 
     width:200px;
 }
