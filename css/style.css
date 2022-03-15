@@ -1,2 +1,120 @@
 /* Journey to the Center of the Earth Practicum */
+
 /* Russell Tenzer */
+
+body
+{
+    background-color:#765729;
+}
+
+body header
+{
+    border:3px solid#886644;
+    border-radius:15px 15px 0px 0px;
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+
+    text-align:center;
+}
+
+body nav
+{
+    background-color:#F5DEB3;
+    border:3px solid#886644;
+    box-shadow:15px 15px 10px #708090 inset;
+
+    text-align:center;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:250px;
+    padding-right:250x;
+
+    width:200px;
+}
+
+body main
+{
+    background-color:#F5DEB3;
+    border:3px solid#886644;
+    box-shadow:15px 15px 10px #708090 inset;
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20x;
+
+    
+}
+
+#cryptogram
+{
+    font-style:italic;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    
+    text-align:center;
+
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:50px;
+    padding-right:50x;
+}
+
+body aside
+{
+    background-color:#F5DEB3;
+    border:3px solid#886644;
+    box-shadow:15px 15px 10px #708090 inset;
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20x;
+
+
+}
+
+body footer
+{
+    background-color:#F5DEB3;
+    border:3px solid#886644;
+    border-radius:0px 0px 15px 15px;
+    box-shadow:15px 15px 10px #708090 inset;
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20x;
+
+
+}
