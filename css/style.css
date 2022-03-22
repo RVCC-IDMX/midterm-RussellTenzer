@@ -2,10 +2,10 @@
 
 /* Russell Tenzer */
 
-body
+header h1
 {
-    background-image:linear-gradient(#765729, black);
-}
+    background:url(cave.jpg);
+}    
 
 header
 {
@@ -31,6 +31,11 @@ header
     padding-right:10px;
 
     text-align:center;
+}
+
+body
+{
+    background:linear-gradient(#765729, black);
 }
 
 nav ul
@@ -96,6 +101,17 @@ body main
 body main p::first-line(2)
 {
     font-size-adjust:1.5;
+}
+
+span
+{
+    font-style:italic;
+}
+
+span.character
+{
+    font-weight:bold;
+    font-style:normal;
 }
 
 #cryptogram
@@ -169,7 +185,7 @@ body footer
     float:left;
     float:bottom;
     padding-right:1n;
-    padding-bottom:1n;
+    margin-right:25px;
 }
 
 #cryptogram
@@ -180,4 +196,9 @@ body footer
 h2 
 {
     border-bottom:black dashed;
+}
+
+@media only screen and (max-width:786px)
+{
+
 }
